@@ -38,9 +38,9 @@ header {
 
 /* ******************** ME ******************** */
 .me {
-    background: var(--color-primary-variant);
-    /* background: linear-gradient(var(--color-primary), transparent); */
-    /* background: repeating-linear-gradient(var(--color-primary), var(--color-primary-variant) 0.5rem, transparent 0.5rem, transparent 1.5rem); */
+    /* background: var(--color-primary-variant); */
+    background: var(--color-primary);
+    color: var(--color-bg);
     width: 22rem;
     height: 28rem;
     position: absolute;
