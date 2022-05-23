@@ -7,7 +7,7 @@ export const HeaderSocials = () => {
     return (
         <div className='haeder_socials'>
             <a href="https://telegram.com" target="_blank" rel="noreferrer"><BsTelegram/></a>
-            <a href="https://telegram.com" target="_blank" rel="noreferrer"><FaGithub/></a>
+            <a href="https://github.com/nandatritona" target="_blank" rel="noreferrer"><FaGithub/></a>
             <a href="https://telegram.com" target="_blank" rel="noreferrer"><BsWhatsapp/></a>
         </div>
     )
