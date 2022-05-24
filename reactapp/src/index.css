@@ -64,7 +64,7 @@ section > h2, section h5 {
 
 section > h2 {
     color: var(--color-primary);
-    margin-top: 3rem;
+    margin-top: -0.5rem;
 }
 
 .text-light {
@@ -115,7 +115,7 @@ img {
     }
 
     section {
-        margin-top: 6rem;
+        margin-top: 5rem;
         height: 100vh;
     }
 }
@@ -127,6 +127,7 @@ img {
     }
 
     section > h2 {
-        margin-top: 2rem;
+        /* margin-top: 2rem; */
+        margin-top: -0.5rem;
     }
 }
